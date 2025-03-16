@@ -1,0 +1,7 @@
+## Interface: 11503
+## Title: Bento TSM Link
+## Notes: Creates a TSM online dashboard link by pressing Ctrl / Cmd (macOS) + P for the currently hovered item.
+## Version: 1.0
+## Author: MIYANKO
+
+BentoTSMLink.lua
