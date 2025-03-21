@@ -1,3 +1,5 @@
+# Discontinued
+
 # Bento Trade Skill Master Link
 
 ## Addon for World of Warcraft Classic that adds a shortcut to generate Trade Skill Master Dashboard Links for hovered items.
